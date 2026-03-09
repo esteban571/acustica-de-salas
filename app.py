@@ -51,11 +51,11 @@ data={
 "Piso",
 "Techo",
 "Cielo raso",
-"Pared ladrillo",
+"Pared concreto",
 "Pared drywall",
-"Ventanas",
+"Puerta de vidrio",
 "Sillas",
-"Puerta"
+"Puerta de madera"
 ],
 
 "Tipo":[
@@ -64,7 +64,7 @@ data={
 "Drywall",
 "Ladrillo",
 "Drywall",
-"Vidrio",
+"lamina de Vidrio",
 "Madera",
 "Madera"
 ],
